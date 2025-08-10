@@ -67,12 +67,12 @@ section {
     margin: 20px 0;
 }
 
-.about h1 {
+#about h1 {
     font-size: 30px;
     color: #f8f3d5;
 }
 
-.about h2{
+#about h2{
   font-weight: bold;
   background: linear-gradient(270deg, #ffd700, #ff8c00);
   -webkit-background-clip: text;
@@ -86,7 +86,7 @@ section{
 
 }
 
-.about p {
+#about p {
     font-size: large;
     margin-left: 80px;
     margin-right: 80px;
